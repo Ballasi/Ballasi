@@ -8,8 +8,9 @@
 ### Who am I?
 
 - Hey 👋 My name is Thomas, I'm currently a student in IT, Networks and Cybersecurity at Grenoble INP - Esisar.
-- I will soon be studying abroad ✈️ at Polytechnique Montreal in Canada.
+- I will soon be studying abroad ✈️ at Polytechnique Montreal in Canada, to mostly learn about AI.
 - 🔭 I’m currently working on [osb](https://gitlab.com/Asperatus/osb), a fast, full-fledged, scalable and secure implementation of the .osb storyboard file format in Rust, and I'm helping [Stéphane Traut](https://github.com/S-Traut) work on [osbx](https://github.com/osbx).
 - On my free time, I compose and publish music 🎵 under free licenses.
+- I use Arch btw 🐧
 
-I'm grateful that you came across my profile. Feel free to contact me if you have anything to ask.
+I'm grateful that you came across my profile. Feel free to contact me if you have anything to ask! 🙂
