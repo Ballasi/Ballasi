@@ -1,4 +1,4 @@
-### Welcome to my profile <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+### Welcome to my profile!<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <a href="https://gitlab.com/Asperatus"><img src="https://img.shields.io/badge/GitLab-1f1f1f?style=for-the-badge&logo=gitlab&logoColor=white"></img></a>
 <a href="https://github.com/Ballasi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>
