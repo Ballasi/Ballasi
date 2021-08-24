@@ -9,7 +9,7 @@
 
 - Hey 👋 My name is Thomas, I am a student in IT, Networks and Cybersecurity at Grenoble INP - Esisar.
 - I am currently studying abroad ✈️ at Polytechnique Montréal in Canada, to mostly learn about AI.
-- 🔭 I am currently working on [osb](https://gitlab.com/Asperatus/osb), a fast, full-fledged, scalable and secure implementation of the .osb storyboard file format in Rust, and I'm helping [Stéphane Traut](https://github.com/S-Traut) work on [osbx](https://github.com/osbx).
+- 🔭 I am currently working on [osb](https://gitlab.com/Asperatus/osb), a fast, fully-fledged, scalable and secure implementation of the .osb storyboard file format in Rust, and I'm helping [Stéphane Traut](https://github.com/S-Traut) work on [osbx](https://github.com/osbx).
 - On my free time, I compose and publish music 🎵 under free licenses.
 - 💡 I am interested in working in the area of low-level programming in the future, especially using the Rust programming language.
 - I use Arch btw 🐧
