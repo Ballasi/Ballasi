@@ -5,13 +5,12 @@
 <a href="https://www.linkedin.com/in/ballasi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a href="https://www.ballasi.com"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"></img></a>
 
-### Who am I?
+<img align="right" src="https://cdn.discordapp.com/attachments/414542714365935626/918387026364084254/unknown.png" width="100px">
 
-- Hey 👋 My name is Thomas, I am a student in IT, Networks and Cybersecurity at Grenoble INP - Esisar.
-- I am currently studying abroad ✈️ at Polytechnique Montréal in Canada, to mostly learn about AI.
-- 🔭 I am currently working on [osb](https://gitlab.com/Asperatus/osb), a fast, fully-fledged, scalable and secure implementation of the .osb storyboard file format in Rust, and I'm helping [Stéphane Traut](https://github.com/S-Traut) work on [osbx](https://github.com/osbx).
-- On my free time, I compose and publish music 🎵 under free licenses.
-- 💡 I am interested in working in the area of low-level programming in the future, especially using the Rust programming language.
-- I use Arch btw 🐧
+<samp>
+  <p align="justify">Hey 👋 My name is <b>Thomas</b>, I am a student in IT, Networks and Cybersecurity at ESISAR. I am currently studying abroad ✈️ at Polytechnique Montréal in Canada. 💡 I am interested in working in the area of low-level programming in the future, especially using the Rust programming language. Oh, and I use Arch btw 🐧</p>
+</samp>
 
-I am grateful that you came across my profile. Feel free to contact me if you have anything to ask! 🙂
+<samp>
+  <p align="justify">I am grateful that you came across my profile. Feel free to contact me if you have anything to ask! 🙂</p>
+</samp>
