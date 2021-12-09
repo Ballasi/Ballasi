@@ -8,9 +8,9 @@
 <img align="right" src="https://cdn.discordapp.com/attachments/414542714365935626/918387026364084254/unknown.png" width="100px">
 
 <samp>
-  <p align="justify">Hey 👋 My name is <b>Thomas</b>, I am a student in IT, Networks and Cybersecurity at ESISAR. I am currently studying abroad ✈️ at Polytechnique Montréal in Canada. 💡 I am interested in working in the area of low-level programming in the future, especially using the Rust programming language. Oh, and I use Arch btw 🐧</p>
+  <p align="justify">Hey 👋 My name is <b>Thomas</b>, I am a student in IT, Networks and Cybersecurity at ESISAR. I am currently studying abroad ✈️ at Polytechnique Montréal in Canada and I am interested 💡 in working in the area of low-level programming in the future, especially using the C and Rust programming language. Oh, and I use Arch btw 🐧</p>
 </samp>
 
 <samp>
-  <p align="justify">I am grateful that you came across my profile. Feel free to contact me if you have anything to ask! 🙂</p>
+  <p align="justify">I am grateful that you came across my profile. Feel free to shoot me a message if you have anything to ask! 🙂</p>
 </samp>
