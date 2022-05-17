@@ -8,10 +8,8 @@
 <img align="right" src="https://cdn.discordapp.com/attachments/414542714365935626/918387026364084254/unknown.png" width="100px">
 
 <samp>
-  Hey 👋
-    <p align="justify">I am currently doing an internship in embedded systems engineering specialized in open-source software abroad ✈️ at Savoir-faire Linux in Canada, and I am interested 💡 in working in the area of low-level programming in the future, especially using the C and Rust programming languages. In my free time, I like to make copyleft/free music. Oh, and I use Arch btw 🐧</p>
-</samp>
-
-<samp>
-  <p align="justify">I am grateful that you came across my profile. Feel free to shoot me a message if you have anything to ask! 🙂</p>
+  free software consultant. dev. software engineer.<br>
+  making music under free licenses.<br>
+  on my way to better my C and Rust skills.<br>
+  arch user btw.
 </samp>
